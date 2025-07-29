@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer and researcher with a strong academic record and real-world development experience. I've worked across web stacks and machine learning pipelines, with a focus on building secure, scalable, and impactful systems. I enjoy turning complex problems into elegant code and constantly learning from every project I tackle.
+I'm a passionate developer and researcher with a strong academic record. I've worked across web stacks and machine learning pipelines, with a focus on building secure, scalable, and impactful systems. I enjoy turning complex problems into elegant code and constantly learning from every project I tackle.
 
 ---
 
