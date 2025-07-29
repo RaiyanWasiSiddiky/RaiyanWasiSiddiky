@@ -14,22 +14,6 @@ I'm a passionate developer and researcher with a strong academic record. I've wo
 
 ---
 
-## 💼 Experience
-
-### 🧑‍🏫 Teaching Assistant  
-**BRAC University** – Dhaka, Bangladesh  
-_Feb 2024 – Sep 2024_  
-• Assisted in courses on Numerical Methods and Statistics  
-• Supported faculty with grading and academic guidance  
-
-### 💻 Trainee Full-Stack Developer  
-**Learnathon 3.0 – Brainstation23**  
-_Jan 2025 – May 2025_  
-• Developed a MERN app under industry mentorship  
-• Practiced Agile (SCRUM, Trello), sprint-based delivery  
-
----
-
 ## 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
