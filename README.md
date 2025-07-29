@@ -73,7 +73,6 @@ _Jan 2025 – May 2025_
 ---
 
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiyanWasiSiddiky&layout=compact&theme=github_dark&hide_border=true)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaiyanWasiSiddiky&theme=dark&hide_border=true)
 
 ---
