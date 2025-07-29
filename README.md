@@ -3,8 +3,9 @@
 🎓 **Computer Science Graduate** from BRAC University  
 🏅 **Graduated with Highest Distinction** | CGPA: 3.82/4.00  
 📍 Based in Dhaka, Bangladesh  
-📬 [raiyanwasisiddiky@gmail.com](mailto:raiyanwasisiddiky@gmail.com) | 🌐 [Portfolio]([https://yourportfolio.com](https://portfolio-sigma-lake-77.vercel.app/))  
+📬 [raiyanwasisiddiky@gmail.com](mailto:raiyanwasisiddiky@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/raiyan-siddiky-335135283) 
+🌐 [Portfolio](https://portfolio-sigma-lake-77.vercel.app/) 
 
 ---
 
