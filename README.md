@@ -5,7 +5,8 @@
 📍 Based in Dhaka, Bangladesh  
 📬 [raiyanwasisiddiky@gmail.com](mailto:raiyanwasisiddiky@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/raiyan-siddiky-335135283)  
-🌐 [Portfolio](https://portfolio-sigma-lake-77.vercel.app/) 
+🌐 [Portfolio](https://portfolio-sigma-lake-77.vercel.app/)  
+📄 [Download My CV](./Raiyan_Wasi_Siddiky_CV.pdf)
 
 ---
 
