@@ -57,8 +57,21 @@ I'm a passionate developer and researcher with a strong academic record. I've wo
 
 ---
 
+<!--
 ## 📊 GitHub Stats:
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RaiyanWasiSiddiky&theme=dark&hide_border=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiyanwasisiddiky&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanwasisiddiky&layout=compact&theme=dark&hide_border=true)
+-->
+
+<!-- Streak stats temporarily removed due to GitHub embed issue
+![Streak Stats](https://streak-stats.demolab.com/?user=raiyanwasisiddiky&theme=dark&hide_border=true)
+-->
+
+
+
 
 ---
 
