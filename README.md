@@ -32,6 +32,7 @@ I’ve worked across **web development**, **data analysis**, and **machine learn
 
 **Trainee Full-Stack Developer** — *Learnathon 3.0 by Geeky-Solutions (Brainstation23)*  
 📅 *January 2025 – May 2025* 
+
 ---
 
 ## 💻 Tech Stack:
