@@ -2,6 +2,7 @@
 
 🎓 **Computer Science Graduate** from BRAC University  
 🏅 **Graduated with Highest Distinction** | CGPA: 3.82/4.00  
+💼 **Currently:** Digital Assistant (Consultant) @ FAO, United Nations | Operations Analyst (Automation) @ Commure  
 📍 Based in Dhaka, Bangladesh  
 📬 [raiyanwasisiddiky@gmail.com](mailto:raiyanwasisiddiky@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/raiyan-siddiky-335135283)  
@@ -12,8 +13,25 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer and researcher with a strong academic record. I've worked across web stacks and machine learning pipelines, with a focus on building secure, scalable, and impactful systems. I enjoy turning complex problems into elegant code and constantly learning from every project I tackle.
+I’m a developer and data enthusiast who loves building meaningful systems — whether that means automating real-world workflows, analyzing data to uncover insights, or creating intelligent applications that scale.  
 
+I’ve worked across **web development**, **data analysis**, and **machine learning**, combining technical rigor with a maker’s mindset. I value clean design, practical solutions, and the freedom to build without red tape.  
+
+---
+
+## 💼 Work Experience
+
+**Digital Assistant (Consultant)** — *Food and Agricultural Organization (FAO), United Nations*  
+📅 *September 2025 – Present*  
+
+**Operations Analyst – Automation** — *Commure, Dhaka, Bangladesh*  
+📅 *August 2025 – Present*  
+
+**Teaching Assistant** — *BRAC University, Dhaka, Bangladesh*  
+📅 *February 2024 – September 2024*  
+
+**Trainee Full-Stack Developer** — *Learnathon 3.0 by Geeky-Solutions (Brainstation23)*  
+📅 *January 2025 – May 2025* 
 ---
 
 ## 💻 Tech Stack:
